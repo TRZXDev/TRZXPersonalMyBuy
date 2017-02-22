@@ -21,6 +21,7 @@
 		B7C0B7231E5D37AF0030D138 /* NoLabelView.xib in Resources */ = {isa = PBXBuildFile; fileRef = B7C0B71D1E5D37AF0030D138 /* NoLabelView.xib */; };
 		B7C0B7241E5D37AF0030D138 /* ZaixianerjiyedeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B7C0B71F1E5D37AF0030D138 /* ZaixianerjiyedeCell.m */; };
 		B7C0B7251E5D37AF0030D138 /* ZaixianerjiyedeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B7C0B7201E5D37AF0030D138 /* ZaixianerjiyedeCell.xib */; };
+		B7C0B7271E5D3B520030D138 /* 列表无内容@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7C0B7261E5D3B520030D138 /* 列表无内容@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		B7C0B71E1E5D37AF0030D138 /* ZaixianerjiyedeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZaixianerjiyedeCell.h; sourceTree = "<group>"; };
 		B7C0B71F1E5D37AF0030D138 /* ZaixianerjiyedeCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZaixianerjiyedeCell.m; sourceTree = "<group>"; };
 		B7C0B7201E5D37AF0030D138 /* ZaixianerjiyedeCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ZaixianerjiyedeCell.xib; sourceTree = "<group>"; };
+		B7C0B7261E5D3B520030D138 /* 列表无内容@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "列表无内容@2x.png"; sourceTree = "<group>"; };
 		F11E27A8A9D5605B519AA276 /* Pods-TRZXPersonalMyBuy.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TRZXPersonalMyBuy.release.xcconfig"; path = "Pods/Target Support Files/Pods-TRZXPersonalMyBuy/Pods-TRZXPersonalMyBuy.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -179,6 +181,7 @@
 		B7C0B7151E5D35090030D138 /* TRZXPersonalMyBuy */ = {
 			isa = PBXGroup;
 			children = (
+				B7C0B7261E5D3B520030D138 /* 列表无内容@2x.png */,
 				B7C0B7191E5D37AF0030D138 /* ZXShouMode.h */,
 				B7C0B71A1E5D37AF0030D138 /* ZXShouMode.m */,
 				B7C0B71B1E5D37AF0030D138 /* NoLabelView.h */,
@@ -304,6 +307,7 @@
 			files = (
 				B7C0B7231E5D37AF0030D138 /* NoLabelView.xib in Resources */,
 				B7C0B6F21E5D34D60030D138 /* LaunchScreen.storyboard in Resources */,
+				B7C0B7271E5D3B520030D138 /* 列表无内容@2x.png in Resources */,
 				B7C0B7251E5D37AF0030D138 /* ZaixianerjiyedeCell.xib in Resources */,
 				B7C0B6EF1E5D34D60030D138 /* Assets.xcassets in Resources */,
 				B7C0B6ED1E5D34D60030D138 /* Main.storyboard in Resources */,
