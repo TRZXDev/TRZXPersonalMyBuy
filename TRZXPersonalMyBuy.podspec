@@ -12,8 +12,7 @@ Pod::Spec.new do |s|
     s.dependency "TRZXNetwork"
     s.dependency "ReactiveCocoa", "~> 2.5"
     s.dependency "MJExtension"
-    
-
+    s.dependency "TRZXKit"
     s.dependency "MJRefresh"
     s.dependency "SDWebImage"
     s.requires_arc = true
