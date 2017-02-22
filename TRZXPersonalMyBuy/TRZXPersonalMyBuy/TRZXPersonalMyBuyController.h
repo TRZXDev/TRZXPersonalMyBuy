@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TRZXPersonalMyBuyController.h
 //  TRZXPersonalMyBuy
 //
 //  Created by 张江威 on 2017/2/22.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TRZXPersonalMyBuyController : UIViewController
 
 @end
-

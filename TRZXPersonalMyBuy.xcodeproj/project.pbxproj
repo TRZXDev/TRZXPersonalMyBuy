@@ -9,12 +9,12 @@
 /* Begin PBXBuildFile section */
 		B7C0B6E41E5D34D60030D138 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B7C0B6E31E5D34D60030D138 /* main.m */; };
 		B7C0B6E71E5D34D60030D138 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B7C0B6E61E5D34D60030D138 /* AppDelegate.m */; };
-		B7C0B6EA1E5D34D60030D138 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B7C0B6E91E5D34D60030D138 /* ViewController.m */; };
 		B7C0B6ED1E5D34D60030D138 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7C0B6EB1E5D34D60030D138 /* Main.storyboard */; };
 		B7C0B6EF1E5D34D60030D138 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7C0B6EE1E5D34D60030D138 /* Assets.xcassets */; };
 		B7C0B6F21E5D34D60030D138 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7C0B6F01E5D34D60030D138 /* LaunchScreen.storyboard */; };
 		B7C0B6FD1E5D34D60030D138 /* TRZXPersonalMyBuyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B7C0B6FC1E5D34D60030D138 /* TRZXPersonalMyBuyTests.m */; };
 		B7C0B7081E5D34D70030D138 /* TRZXPersonalMyBuyUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B7C0B7071E5D34D70030D138 /* TRZXPersonalMyBuyUITests.m */; };
+		B7C0B7181E5D35130030D138 /* TRZXPersonalMyBuyController.m in Sources */ = {isa = PBXBuildFile; fileRef = B7C0B7171E5D35130030D138 /* TRZXPersonalMyBuyController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,8 +39,6 @@
 		B7C0B6E31E5D34D60030D138 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B7C0B6E51E5D34D60030D138 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B7C0B6E61E5D34D60030D138 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		B7C0B6E81E5D34D60030D138 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		B7C0B6E91E5D34D60030D138 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		B7C0B6EC1E5D34D60030D138 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B7C0B6EE1E5D34D60030D138 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B7C0B6F11E5D34D60030D138 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -51,6 +49,8 @@
 		B7C0B7031E5D34D70030D138 /* TRZXPersonalMyBuyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TRZXPersonalMyBuyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7C0B7071E5D34D70030D138 /* TRZXPersonalMyBuyUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TRZXPersonalMyBuyUITests.m; sourceTree = "<group>"; };
 		B7C0B7091E5D34D70030D138 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B7C0B7161E5D35130030D138 /* TRZXPersonalMyBuyController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TRZXPersonalMyBuyController.h; sourceTree = "<group>"; };
+		B7C0B7171E5D35130030D138 /* TRZXPersonalMyBuyController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TRZXPersonalMyBuyController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,10 +101,9 @@
 		B7C0B6E11E5D34D60030D138 /* TRZXPersonalMyBuy */ = {
 			isa = PBXGroup;
 			children = (
+				B7C0B7151E5D35090030D138 /* TRZXPersonalMyBuy */,
 				B7C0B6E51E5D34D60030D138 /* AppDelegate.h */,
 				B7C0B6E61E5D34D60030D138 /* AppDelegate.m */,
-				B7C0B6E81E5D34D60030D138 /* ViewController.h */,
-				B7C0B6E91E5D34D60030D138 /* ViewController.m */,
 				B7C0B6EB1E5D34D60030D138 /* Main.storyboard */,
 				B7C0B6EE1E5D34D60030D138 /* Assets.xcassets */,
 				B7C0B6F01E5D34D60030D138 /* LaunchScreen.storyboard */,
@@ -138,6 +137,15 @@
 				B7C0B7091E5D34D70030D138 /* Info.plist */,
 			);
 			path = TRZXPersonalMyBuyUITests;
+			sourceTree = "<group>";
+		};
+		B7C0B7151E5D35090030D138 /* TRZXPersonalMyBuy */ = {
+			isa = PBXGroup;
+			children = (
+				B7C0B7161E5D35130030D138 /* TRZXPersonalMyBuyController.h */,
+				B7C0B7171E5D35130030D138 /* TRZXPersonalMyBuyController.m */,
+			);
+			path = TRZXPersonalMyBuy;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -273,8 +281,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B7C0B6EA1E5D34D60030D138 /* ViewController.m in Sources */,
 				B7C0B6E71E5D34D60030D138 /* AppDelegate.m in Sources */,
+				B7C0B7181E5D35130030D138 /* TRZXPersonalMyBuyController.m in Sources */,
 				B7C0B6E41E5D34D60030D138 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
