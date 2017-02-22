@@ -10,4 +10,10 @@
 
 @interface TRZXPersonalMyBuyController : UIViewController
 
+@property (strong, nonatomic) UITableView *tableView;
+
+@property (nonatomic,copy)NSString *title1Str;
+@property (strong, nonatomic)NSString *sanjiUrl;
+@property (strong, nonatomic)NSString *MID;
+
 @end
