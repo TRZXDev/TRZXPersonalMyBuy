@@ -34,11 +34,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>TRZXKit.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>TRZXNetwork.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -52,17 +47,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>0CEE71C405DE24E13BC097F4DB0DF2EF</key>
+		<key>204E7018D9C82FE2266A14D6E7B74BEF</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>35745514AEE6B750121E16FA36E1843A</key>
+		<key>40DA61D02438715A35D64B70FFAAB66F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4500596DACC89821268908A040C1C614</key>
+		<key>473C31DAB2C4F7783AEDF141E8B42067</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -72,12 +67,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8249A644CAC551C9D814211AA79B6D7E</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A19321ED30755924EA70A6A0CD252E71</key>
+		<key>B05A8DFCF435E4A3504488578832887D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -87,12 +77,12 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>DDAA5F8DF8A67968731319B757F8B5F9</key>
+		<key>E14A62900910444707A5504D25EC98DC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>E14A62900910444707A5504D25EC98DC</key>
+		<key>F595DE4112B824A79C441CA99E598219</key>
 		<dict>
 			<key>primary</key>
 			<true/>

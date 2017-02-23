@@ -10,7 +10,6 @@ def pods
     pod 'TRZXNetwork'
     pod 'ReactiveCocoa', '~> 2.5’
     pod 'MJExtension'
-    pod 'TRZXKit'
     pod 'MJRefresh'
     pod 'SDWebImage'
 end
